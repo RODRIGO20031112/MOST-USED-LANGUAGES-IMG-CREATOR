@@ -5,12 +5,7 @@
     {
       "src": "/img/bg.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/img/bg.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "256x256"
     }
   ],
   "background_color": "#0c0f16",

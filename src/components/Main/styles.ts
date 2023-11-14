@@ -4,17 +4,12 @@ import theme from 'styles/theme';
 
 export const Container = styled.div`
   display: flex;
-
-  width: 100%;
-  height: 100vh;
+  width: auto;
+  height: auto;
 `;
 
 export const Content = styled.div`
-  width: 100%;
+  width: auto;
+  height: auto;
   max-width: ${theme.grid.container};
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 `;
